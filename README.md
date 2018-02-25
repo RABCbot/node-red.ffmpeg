@@ -1,5 +1,20 @@
 # Node-RED-Ffmpeg
 Node-RED flow to execute FFmpeg transcoding
+
+Running on a RPI2 acting as a NAS/MiniDLNA server
+
+Install vsftpd:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-16-04
+
+Install Samba:
+https://www.htpcguides.com/create-samba-share-raspberry-pi/
+
+Install MiniDLNA:
+https://www.htpcguides.com/install-latest-readymedia-minidlna-ubuntu/
+
+Install Node-RED:
+https://nodered.org/docs/hardware/raspberrypi
+
 <br/>
 ![Screenshot](dashboard.png)
 <br/>
